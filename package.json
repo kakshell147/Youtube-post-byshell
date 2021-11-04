@@ -2,9 +2,9 @@
   "name": "youtube-notification-bot",
   "version": "1.0.0",
   "description": "Simple and easy to use discord bot to notify members whenever a video is posted on a YouTube channel.",
-  "main": "index.js",
+  "main": "shell.js",
   "scripts": {
-    "test": "node index.js"
+    "test": "node shell.js"
   },
   "repository": {
     "type": "git",
