@@ -2,13 +2,13 @@
   "name": "youtube-notification-bot",
   "version": "1.0.0",
   "description": "Simple and easy to use discord bot to notify members whenever a video is posted on a YouTube channel.",
-  "main": "shell.js",
+  "main": "polat.js",
   "scripts": {
-    "test": "node shell.js"
+    "test": "node polat.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Snowflake107/youtube-notification-bot.git"
+    "url": "https://github.com/polatbot12"
   },
   "keywords": [
     "youtube",
